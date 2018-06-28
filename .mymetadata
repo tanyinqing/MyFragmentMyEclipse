@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MyFragmentMyEclipse"
+  id="myeclipse.1530166905732"
+  context-root="/MyFragmentMyEclipse"
+  j2ee-spec="5.0"
+  archive="MyFragmentMyEclipse.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
